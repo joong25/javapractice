@@ -20,5 +20,6 @@ public class Baekjoon1085 {
         int min = Arrays.stream(arr).min().getAsInt();
 
         System.out.println(min);
+        //sdfsdfsdsd
     }
 }
